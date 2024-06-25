@@ -119,19 +119,6 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: FS01-08
-    x: 3023
-    y: 3258
-    width: 600
-    height: 838
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: FS01-09
     x: 1821
     y: 2419
     width: 600
@@ -144,7 +131,7 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: FS01-10
+  - name: FS01-09
     x: 1821
     y: 3258
     width: 600
@@ -157,7 +144,7 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: FS01-11
+  - name: FS01-10
     x: 1803
     y: 370
     width: 600
@@ -170,7 +157,7 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: FS01-12
+  - name: FS01-11
     x: 1385
     y: 1209
     width: 600
@@ -183,7 +170,7 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: FS01-13
+  - name: FS01-12
     x: 1202
     y: 370
     width: 600
@@ -196,7 +183,7 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: FS01-14
+  - name: FS01-13
     x: 784
     y: 1209
     width: 600
@@ -209,7 +196,7 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: FS01-15
+  - name: FS01-14
     x: 601
     y: 111
     width: 600
@@ -222,9 +209,22 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: FS01-16
+  - name: FS01-15
     x: 0
     y: 111
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-16
+    x: 3023
+    y: 3258
     width: 600
     height: 838
     borderLeft: 0
