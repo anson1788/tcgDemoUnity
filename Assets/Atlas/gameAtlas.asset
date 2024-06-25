@@ -15,8 +15,8 @@ MonoBehaviour:
   material: {fileID: 2100000, guid: b30e0d16488b7486ba92e7dfe4adeb11, type: 2}
   mSprites:
   - name: DragonBallBack
-    x: 1821
-    y: 951
+    x: 0
+    y: 950
     width: 783
     height: 1097
     borderLeft: 0
@@ -27,9 +27,217 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: FS01-01_f
+    x: 3023
+    y: 2419
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-02
+    x: 3005
+    y: 741
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-03
+    x: 2587
+    y: 1580
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-04
+    x: 2422
+    y: 2419
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-05
+    x: 2422
+    y: 3258
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-06
+    x: 2404
+    y: 741
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-07
+    x: 1986
+    y: 1580
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-08
+    x: 3023
+    y: 3258
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-09
+    x: 1821
+    y: 2419
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-10
+    x: 1821
+    y: 3258
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-11
+    x: 1803
+    y: 370
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-12
+    x: 1385
+    y: 1209
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-13
+    x: 1202
+    y: 370
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-14
+    x: 784
+    y: 1209
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-15
+    x: 601
+    y: 111
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FS01-16
+    x: 0
+    y: 111
+    width: 600
+    height: 838
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: mart
     x: 0
-    y: 0
+    y: 2048
     width: 1820
     height: 2048
     borderLeft: 0
